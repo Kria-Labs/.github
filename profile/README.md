@@ -47,7 +47,3 @@ Currently in active development.
 ### Get Started
 
 Visit the [official website](https://krialang.vercel.app) for documentation and examples.
-
----
-
-Made with passion • 2026
